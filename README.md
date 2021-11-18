@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba 👋
 
 Ben Berkan. Mobil developer olma yolunda ilerliyorum ve bu yoldaki arkadaşım Flutter.
 
