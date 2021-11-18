@@ -2,7 +2,7 @@
 #### Flutter Developer
 ![Flutter Developer](https://miro.medium.com/max/3960/0*HICLyAdNSIyT0ODU.jpg)
 
-Ben Berkan. Mobil developer olma yolunda ilerliyorum ve bu yoldaki arkadaşım Flutter.
+Ben Berkan. Mobile developer olma yolunda ilerliyorum ve bu yoldaki arkadaşım Flutter.
 
 ## Yeteneklerim 
 * 📱 Flutter
