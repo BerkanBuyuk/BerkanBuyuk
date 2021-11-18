@@ -1,4 +1,4 @@
-### Hi there 👋, Berkan Büyük
+### Merhaba 👋, Ben Berkan Büyük
 #### Flutter Developer
 ![Flutter Developer](https://miro.medium.com/max/3960/0*HICLyAdNSIyT0ODU.jpg)
 
