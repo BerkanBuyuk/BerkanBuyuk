@@ -1,6 +1,9 @@
 ### Merhaba 👋, Ben Berkan Büyük
 #### Flutter Developer
-![Flutter Developer](https://miro.medium.com/max/3960/0*HICLyAdNSIyT0ODU.jpg)
+
+<img src="https://miro.medium.com/max/3960/0*HICLyAdNSIyT0ODU.jpg" width="400" height="400" />
+
+
 
 Ben Berkan. Mobile developer olma yolunda ilerliyorum ve bu yoldaki arkadaşım Flutter.
 
