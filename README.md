@@ -23,6 +23,10 @@
        <a href='https://developer.apple.com/swift/'> <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg"> </a>
       </td>
       <td width="25%" align="center">
+        <h3>SwiftUI</h3><br>
+       <a href='https://developer.apple.com/xcode/swiftui/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175926803-0a7521f5-c2ff-49ae-87c2-7ad0c57699c0.png"> </a>
+      </td>
+      <td width="25%" align="center">
         <h3>Firebase</h3><br>
        <a href='https://firebase.google.com/'> <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg"> </a>
       </td>
@@ -31,7 +35,7 @@
         <a href='https://www.arduino.cc/'> <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg"> </a>
       </td>
        <td width="25%" align="center">
-        <h3>   Git   </h3><br>
+        <h3>Git</h3><br>
        <a href='https://git-scm.com/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175925574-c1bffe66-fe0a-48d0-87c9-02d69b509823.svg"> </a>
       </td>
     </tr>
