@@ -24,7 +24,7 @@
       </td>
       <td width="25%" align="center">
         <h3>SwiftUI</h3><br>
-       <a href='https://developer.apple.com/xcode/swiftui/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175926803-0a7521f5-c2ff-49ae-87c2-7ad0c57699c0.png"> </a>
+       <a href='https://developer.apple.com/xcode/swiftui/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175930270-32e77219-9d15-48cc-8436-152944425a2f.png"> </a>
       </td>
       <td width="25%" align="center">
         <h3>Firebase</h3><br>
