@@ -16,7 +16,7 @@
       </td>
       <td width="25%" align="center">
         <h3>React Native</h3><br>
-       <a href='https://reactnative.dev/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175923901-8e5e2b59-6831-4328-be47-65577723a500.png"> </a>
+       <a href='https://reactnative.dev/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175924466-13d3e990-8cea-43bc-b655-948ee665c8c6.svg"> </a>
       </td>
       <td width="25%" align="center">
         <h3>Swift</h3><br>
