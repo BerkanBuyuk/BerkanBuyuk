@@ -35,7 +35,7 @@
         <a href='https://www.arduino.cc/'> <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg"> </a>
       </td>
        <td width="25%" align="center">
-        <h3>  Git </h3><br>
+        <h3>Git Software</h3><br>
        <a href='https://git-scm.com/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175925574-c1bffe66-fe0a-48d0-87c9-02d69b509823.svg"> </a>
       </td>
     </tr>
