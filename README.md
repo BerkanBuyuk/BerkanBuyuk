@@ -14,7 +14,7 @@
         <h3>Flutter</h3><br>
        <a href='https://flutter.dev/'> <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg"> </a>
       </td>
-      <td width="25%" align="center">
+      <td width="25%" height="25%" align="center">
         <h3>React Native</h3><br>
        <a href='https://reactnative.dev/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175924466-13d3e990-8cea-43bc-b655-948ee665c8c6.svg"> </a>
       </td>
