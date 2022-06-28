@@ -85,6 +85,10 @@
        <a href='https://www.linkedin.com/in/berkanbuyuk/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> </a>
       </td>
       <td width="25%" align="center">
+        <h3>Youtube</h3><br>
+       <a href='https://www.youtube.com/channel/UCnxrA5BfB-6JhAN_1fAsZCg'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/176106787-2afc969d-0edd-4cc2-a388-d1890535e8ef.png"> </a>
+      </td>
+      <td width="25%" align="center">
         <h3>Instagram</h3><br>
        <a href='https://www.instagram.com/brknbyk/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> </a>
       </td>
