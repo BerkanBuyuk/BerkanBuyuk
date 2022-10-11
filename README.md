@@ -92,14 +92,6 @@
         <h3>Medium</h3><br>
        <a href='https://medium.com/@brknbyk'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/176107121-d4a7bc48-e405-4d7c-9b4a-4abd816f3c71.png"> </a>
       </td>
-      <td width="25%" align="center">
-        <h3>Instagram</h3><br>
-       <a href='https://www.instagram.com/brknbyk/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> </a>
-      </td>
-      <td width="25%" align="center">
-        <h3>Twitter</h3><br>
-       <a href='https://twitter.com/brknbyk'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> </a>
-      </td>
     </tr>
   </tbody>
 </table>
