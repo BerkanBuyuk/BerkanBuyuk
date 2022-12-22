@@ -11,12 +11,16 @@
   <tbody>
     <tr valign="center">
       <td width="25%" align="center">
-        <h3>Flutter</h3><br>
-       <a href='https://flutter.dev/'> <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg"> </a>
+        <h3>React</h3><br>
+       <a href='https://reactjs.org/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/209114504-c721ec87-0b37-4c23-ace0-f6186e5fe410.gif"> </a>
       </td>
       <td width="25%" align="center">
         <h3>React Native</h3><br>
-       <a href='https://reactnative.dev/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175924466-13d3e990-8cea-43bc-b655-948ee665c8c6.svg"> </a>
+       <a href='https://reactnative.dev/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/209115082-8f646c71-1d00-4245-9f8e-9bad00f5ab62.gif"> </a>
+      </td>
+      <td width="25%" align="center">
+        <h3>Flutter</h3><br>
+       <a href='https://flutter.dev/'> <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg"> </a>
       </td>
       <td width="25%" align="center">
         <h3>Swift</h3><br>
@@ -33,10 +37,6 @@
        <td width="25%" align="center">
         <h3>Arduino</h3><br>
         <a href='https://www.arduino.cc/'> <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg"> </a>
-      </td>
-       <td width="25%" align="center">
-        <h3>Git Software</h3><br>
-       <a href='https://git-scm.com/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/175925574-c1bffe66-fe0a-48d0-87c9-02d69b509823.svg"> </a>
       </td>
     </tr>
   </tbody>
