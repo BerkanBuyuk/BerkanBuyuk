@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/berkanbuyuk" target="_blank">Berkan Büyük</a> !</h1>
-<h2 align="center">I'm developing myself in the field of mobile applications, I am trying to establish my career focused on software.</h2>
+<h2 align="center">I'm developing myself in the field of mobile applications and web applications, I am trying to establish my career focused on software.</h2>
 
 <br/>
 
@@ -15,8 +15,8 @@
        <a href='https://reactjs.org/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/209114504-c721ec87-0b37-4c23-ace0-f6186e5fe410.gif"> </a>
       </td>
       <td width="25%" align="center">
-        <h3>React Native</h3><br>
-       <a href='https://reactnative.dev/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/209115082-8f646c71-1d00-4245-9f8e-9bad00f5ab62.gif"> </a>
+        <h3>R.Native</h3><br>
+       <a href='https://reactnative.dev/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/209114504-c721ec87-0b37-4c23-ace0-f6186e5fe410.gif"> </a>
       </td>
       <td width="25%" align="center">
         <h3>Flutter</h3><br>
@@ -43,7 +43,7 @@
 </table>
 
 
-<h4 align="center">I am currently working with IOS.</h4>
+<h4 align="center">I am currently working with React, React Native.</h4>
 
 ---
 
