@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/berkanbuyuk" target="_blank">Berkan Büyük</a> !</h1>
-<h2 align="center">I'm developing myself in the field of mobile applications and web applications, I am trying to establish my career focused on software.</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Berkan+Buyuk!;" />
+</h1>
+<h2 align="center">I'm developing myself in the field of mobile applications and web applications, I'm trying to establish my career focused on software.</h2>
 
 <br/>
 
@@ -89,7 +91,7 @@
       </td>
       <td width="25%" align="center">
         <h3>Medium</h3><br>
-       <a href='https://medium.com/@brknbyk'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/176107121-d4a7bc48-e405-4d7c-9b4a-4abd816f3c71.png"> </a>
+       <a href='https://medium.com/@berkanbuyuk'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/176107121-d4a7bc48-e405-4d7c-9b4a-4abd816f3c71.png"> </a>
       </td>
     </tr>
   </tbody>
