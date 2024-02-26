@@ -79,7 +79,7 @@
     <tr valign="top">
     <td width="25%" align="center">
         <h3>Website</h3><br>
-       <a href='http://www.berkanbuyuk.com/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/195156866-c3af11bf-abd2-420a-8789-35dfd8b12818.png"> </a>
+       <a href='https://portfolio-beta-wine-42.vercel.app/'> <img height="64px" src="https://user-images.githubusercontent.com/82314218/195156866-c3af11bf-abd2-420a-8789-35dfd8b12818.png"> </a>
       </td>
       <td width="25%" align="center">
         <h3>LinkedIn</h3><br>
